@@ -1,16 +1,17 @@
-## Hi there 👋
+# 👋 Hi, I'm Alejandro 
 
-<!--
-**Alejoho/Alejoho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👤 About Me  
+I’m **29 years old** and a former **Agronomic Engineer** who decided to transition into the **IT industry**.  
+I’m passionate about technology and problem-solving, and I’m currently focusing on becoming a **Full-Stack .NET Web Developer**.  
 
-Here are some ideas to get you started:
+## 🛠️ Skills  
+- C#  
+- .NET  
+- SQL  
+- Dapper  
+- Git & GitHub  
+- Bootstrap 5  
+- Blazor Web Apps  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+💡 Always eager to learn and grow in the software development world!
