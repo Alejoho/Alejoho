@@ -16,6 +16,8 @@ I’m passionate about technology and problem-solving, and I’m currently focus
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=database&logoColor=white)
 ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
 ![Dapper](https://img.shields.io/badge/Dapper-FF6F61?style=for-the-badge&logoColor=white)
+
+![ASP.NET Core](https://img.shields.io/badge/ASP.NET%20Core-%23512bd4.svg?style=for-the-badge&logoColor=white)
  
 - GitHub  
 - Blazor Web Apps
@@ -34,3 +36,10 @@ I’m passionate about technology and problem-solving, and I’m currently focus
 
 ---
 💡 Always eager to learn, grow, and contribute in the software development world!
+
+<a href="https://github.com/Alejoho?tab=repositories"><img src="https://github-readme-stats-one-bice.vercel.app/api?username=Alejoho&theme=tokyonight&show_icons=true&count_private=true&hide_border=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR"  width="48%" alt="@Alejoho's github-readme-stats"/></a>
+<a href="https://leetcode.com/Alejoho22/">
+  <img src="https://leetcard.jacoblin.cool/Alejoho22?theme=dark&font=Source%20Code%20Pro&ext=contest&border_radius=10" width="48%" alt="Alejoho's LeetCode Stats" />
+</a>
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer&animation=fadeIn)
