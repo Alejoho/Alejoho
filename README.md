@@ -2,7 +2,7 @@
 
 ## 👤 About Me
 
-I’m **30 years old** and a former **Agronomic Engineer** who decided to transition into the **IT industry**.  
+I’m **30 years old** and a former **Agricultural Engineer** who decided to transition into the **IT industry**.  
 I’m passionate about technology and problem-solving, and I’m currently focusing on becoming a professional **Full-Stack .NET Web Developer**.
 
 ## 🛠️ Skills
